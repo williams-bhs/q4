@@ -1,4 +1,4 @@
 # q4
 Quater 4 Project
 
-These are projects for quarter 4
+Counter Strike is a dope game and I'm porting it to JavaScript. 
